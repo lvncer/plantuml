@@ -49,40 +49,40 @@ UML（Unified Modeling Language）は、ソフトウェア開発やシステム�
 - システムのクラスとその関係を表現します。
 - 属性、メソッド、クラス間の関連、継承、依存などを記載。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-user-login-uml-object-diagram-example.png" alt="class-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-user-login-uml-object-diagram-example.png" alt="class-example" width="400">
 
 ### 2. **コンポーネント図 (Component Diagram)**
 
 - システムを構成するコンポーネント（モジュール）の構造を示します。
 - ソフトウェアモジュールやその依存関係を表現。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-component-diagram-example.png" alt="component-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-component-diagram-example.png" alt="component-example" width="400">
 
 ### 3. **オブジェクト図 (Object Diagram)**
 
 - システム内の具体的なオブジェクトのインスタンスとその関係を示します。
 - クラス図の具体例。
 
-- <img src="https://www.uml-diagrams.org/examples/object-example-login-controller.png" alt="object-example" width="500">
+- <img src="https://www.uml-diagrams.org/examples/object-example-login-controller.png" alt="object-example" width="400">
 
 ### 4. **配置図 (Deployment Diagram)**
 
 - システムのハードウェア構成とソフトウェアの配置を表現。
 - ノード（サーバーや端末）とその間の通信を表現。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/web-application-uml-manifest-diagram-example.png" alt="deployment-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/web-application-uml-manifest-diagram-example.png" alt="deployment-example" width="400">
 
 ### 5. **パッケージ図 (Package Diagram)**
 
 - システム内の要素を論理的なグループ（パッケージ）にまとめ、依存関係を表します。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/multi-layered-web-architecture-uml-package-diagram-example.png" alt="package-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/multi-layered-web-architecture-uml-package-diagram-example.png" alt="package-example" width="400">
 
 ### 6. **プロファイル図 (Profile Diagram)**
 
 - UML の標準メタモデルを拡張するための構造を表現。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/soaml-uml-profile-diagram-example.png" alt="profile-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/soaml-uml-profile-diagram-example.png" alt="profile-example" width="400">
 
 ## **2. 振る舞い図（Behavior Diagrams）**
 
@@ -92,27 +92,27 @@ UML（Unified Modeling Language）は、ソフトウェア開発やシステム�
 
 - システムの外部から見た機能や、アクター（利用者）とその相互作用を表現。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-use-case-diagram-example.png" alt="usecase-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-use-case-diagram-example.png" alt="usecase-example" width="400">
 
 ### 2. **アクティビティ図 (Activity Diagram)**
 
 - ワークフローやプロセスの流れを表現。
 - 条件分岐や並列処理を記載。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-activity-diagram-example.png" alt="activity-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-activity-diagram-example.png" alt="activity-example" width="400">
 
 ### 3. **ステートマシン図 (State Machine Diagram)**
 
 - オブジェクトの状態遷移を表現。
 - イベントやアクションによる状態の変化を記載。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-user-account-state-diagram-example.png" alt="statemachine-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-user-account-state-diagram-example.png" alt="statemachine-example" width="400">
 
 ### 4. **相互作用概観図 (Interaction Overview Diagram)**
 
 - アクティビティ図の一種で、相互作用の流れを概観。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-interaction-overview-diagram-example.png" alt="interaction-overview-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-interaction-overview-diagram-example.png" alt="interaction-overview-example" width="400">
 
 ---
 
@@ -124,21 +124,21 @@ UML（Unified Modeling Language）は、ソフトウェア開発やシステム�
 
 - 時間軸に沿ってオブジェクト間のメッセージ交換を表現。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/facebook-authentication-uml-sequence-diagram-example.png" alt="sequence-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/facebook-authentication-uml-sequence-diagram-example.png" alt="sequence-example" width="400">
 
 ### 2. **コミュニケーション図 (Communication Diagram)**
 
 - オブジェクト間のメッセージ交換とその関係を表現。
 - シーケンス図に似ていますが、メッセージの流れよりも関連性を重視。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-communication-diagram-example.png" alt="communication-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/online-shopping-uml-communication-diagram-example.png" alt="communication-example" width="400">
 
 ### 3. **タイミング図 (Timing Diagram)**
 
 - 時間に沿った状態変化を表現。
 - 特定のオブジェクトの振る舞いを追跡。
 
-- <img src="https://www.uml-diagrams.org/thumbnails/alzheimers-uml-timing-diagram-example.png" alt="timing-example" width="500">
+- <img src="https://www.uml-diagrams.org/thumbnails/alzheimers-uml-timing-diagram-example.png" alt="timing-example" width="400">
 
 ### 4. **相互作用図 (Interaction Diagram)**
 
